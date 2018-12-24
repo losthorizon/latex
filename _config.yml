@@ -1,10 +1,10 @@
 # Site settings
-title:       Jedi blog
-email:       jedi@gmail.com 
+title:       Lost Horizon Blog
+email:       amajidsinar@gmail.com 
 author:      Jedi Jeday
 description: "Musings on systems, information, learning, and optimization."
-baseurl:     "https://bona-ws.github.io/jedi"
-url:         "https://bona-ws.github.io/jedi"
+baseurl:     "http://losthorizon.io"
+url:         "http://losthorizon.io"
 date_format: "%b %-d, %Y"
 
 # Google services
