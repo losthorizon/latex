@@ -29,14 +29,14 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: #
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: #
 google_plus_id:
-linkedin_username:
+linkedin_username: #
 angellist_username:
-medium_id:
+medium_id: #
 bitcoin_url:
 paypal_url:
 flattr_button:
