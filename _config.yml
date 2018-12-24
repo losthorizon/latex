@@ -3,8 +3,8 @@ title:       Lost Horizon Blog
 email:       amajidsinar@gmail.com 
 author:      Jedi Jeday
 description: "Musings on systems, information, learning, and optimization."
-baseurl:     "http://losthorizon.io"
-url:         "http://losthorizon.io"
+baseurl:     "http://www.losthorizon.io"
+url:         "http://www.losthorizon.io"
 date_format: "%b %-d, %Y"
 
 # Google services
