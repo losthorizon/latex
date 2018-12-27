@@ -1,7 +1,7 @@
 /*!
  * ChickenDinner 1.0
- * Copyright 2014, Stephen Scaff - http://sosweetcreative.com 
- * Released under the WTFPL license - http://sam.zoy.org/wtfpl/
+ * Copyright 2014, Stephen Scaff - https://sosweetcreative.com 
+ * Released under the WTFPL license - https://sam.zoy.org/wtfpl/
  *
  * USEAGE 
  * For img tags
