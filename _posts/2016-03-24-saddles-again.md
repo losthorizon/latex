@@ -5,7 +5,7 @@ date:       2016-03-24 9:00:01
 summary:    Why it is hard to get stuck on saddle points
 author:     Benjamin Recht
 blurb: true
-visible:    true
+visible:    false
 ---
 
 *Originally posted at [offconvex.org](http://www.offconvex.org/2016/03/24/saddles-again/)*
