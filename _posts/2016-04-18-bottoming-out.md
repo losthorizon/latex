@@ -5,7 +5,7 @@ date:       2016-04-18 7:00:00
 summary:    Is optimization of deep nets difficult?
 author:     Ben Recht
 blurb: true
-visible:    true
+visible:    false
 ---
 
 In order to get a grasp on what makes optimization difficult in machine learning, it is important to specialize our focus.  Nonconvex optimization is so general, and what makes deep learning hard may be completely different from what makes tensor decomposition difficult.  So in this post, I want to focus on deep learning and take a bit of a controversial stand.  It has been my experience, that optimization is not at all what makes deep learning challenging.
