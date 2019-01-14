@@ -10,3 +10,4 @@ Honestly, this site is heavily inspired by argmin.net. From the moment I came ac
 
 Ben Recht, you’re my hero. Without you, this site wouldnt exist.
 
+contact me at jedi@deligence.io
